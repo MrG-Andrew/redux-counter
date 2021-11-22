@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
 .App {
-  font-family: sans-serif;
+  font-family: comforter, sans-serif;
   text-align: center;
+  font-size: 3em;
 }
